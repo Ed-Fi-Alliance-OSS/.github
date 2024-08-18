@@ -4,4 +4,4 @@
 
 :construction: For more information about the Ed-Fi software found in this repository, please see [Ed-Fi Techdocs](https://techdocs.ed-fi.org/).
 
-:triangular_flag_on_post: For support of Ed-Fi software, please see [Ed-Fi Tracker](https://tracker.ed-fi.org/). We do not use Issues in GitHub.
+:triangular_flag_on_post: For support of Ed-Fi software, please visit the [Ed-Fi Community Hub](https://community.ed-fi.org/). We do not use Issues in GitHub.
