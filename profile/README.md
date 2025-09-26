@@ -1,6 +1,6 @@
-# Connecting student data. Once. And for all.
+# Connecting the data that drives student success
 
-:sparkle: Ed-Fi securely and seamlessly connects education data systems. With Ed-Fi, you'll have a complete, real-time view of every student. Learn more at :arrow_right: [ed-fi.org](https://www.ed-fi.org/)
+:sparkle: The Ed-Fi Data Standard and Technology Suite securely and seamlessly connect education data systems. Learn more at :arrow_right: [ed-fi.org](https://www.ed-fi.org/)
 
 :construction: For more information about the Ed-Fi software found in this repository, please visit the official [Ed-Fi Documentation](https://docs.ed-fi.org/).
 
